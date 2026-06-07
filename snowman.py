@@ -1,1 +1,1 @@
-^X
+print("Snowman Meltdown")
